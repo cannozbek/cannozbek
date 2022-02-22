@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/remzicanozbek" target="blank"><img src="https://img.shields.io/twitter/follow/remzicanozbek?logo=twitter&style=for-the-badge" alt="remzicanozbek" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Dev. , Game Developing**
+- 🌱 I’m currently learning **Blockchain, Mobile Dev. , Game Developing**
 
 - 🤝 I’m looking for help with [WeCode](https://github.com/cannozbek/wecode)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@remzicanozbek](https://medium.com/@remzicanozbek)
 
-- 💬 Ask me about **Flutter , Unity , Organization ,Visual Design**
+- 💬 Ask me about **Solidity, Blockhain, Flutter , Unity , Organization ,Visual Design**
 
 - 📫 How to reach me **remzican.rco@gmail.com**
 
