@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with [WeCode](https://github.com/cannozbek/wecode)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1DzS17Xlx7hXzU2oYQaggHWXuMEEwxYzl/view?usp=sharing](https://drive.google.com/file/d/1DzS17Xlx7hXzU2oYQaggHWXuMEEwxYzl/view?usp=sharing)
-
 - 📝 I regularly write articles on [https://medium.com/@remzicanozbek](https://medium.com/@remzicanozbek)
 
 - 💬 Ask me about **Solidity, Blockhain, Flutter , Unity , Organization ,Visual Design**
