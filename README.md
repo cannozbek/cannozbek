@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Remzi Can</h1>
-<h3 align="center">designer_developer_organizer</h3>
+<h3 align="center">developer_designer_organizator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cannozbek&label=Profile%20views&color=0e75b6&style=flat" alt="cannozbek" /> </p>
 
