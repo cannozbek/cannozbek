@@ -1,7 +1,7 @@
-# **Remzi Can ÖZBEK👋**  
+# **Hi I'm Remzi Can👋**  
   
 
-### <div align="center">I'm Remzi, a full-time developer and specialist on Blockchain and Web Technologies.</div>  
+<div align="center">I'm Remzi, a full-time developer and specialist on Blockchain and Web Technologies.</div>  
   
 
 - 🌱 I’m currently learning Blokchain Technologies and Cloud   
