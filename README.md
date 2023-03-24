@@ -1,13 +1,10 @@
 # **Hi I'm Remzi Can👋**  
   
 
-<div align="center">I'm Remzi, a full-time developer and specialist on Blockchain and Web Technologies.</div>  
+I'm Remzi, a Junior Developer on Blockchain and Microsoft Technologies.
   
 
 - 🌱 I’m currently learning Blokchain Technologies and Cloud   
-
-
-- ❓ Ask me about anything related to Frontend and Blockchain  
 
 
 <br/>  
