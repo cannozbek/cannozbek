@@ -1,10 +1,10 @@
 # **Hi I'm Remzi Can👋**  
   
 
-I'm Remzi, a Junior Developer on Blockchain and Microsoft Technologies.
+I'm Remzi, a Junior Full-Stack Developer 
   
 
-- 🌱 I’m currently learning Blokchain Technologies and Cloud   
+- 🌱 I’m currently learning .NET and Frontend Technologies  
 
 
 <br/>  
